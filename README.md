@@ -49,7 +49,7 @@ http://127.0.0.1:8000/
 * Andrés Forero - Software development
 
 ## Reference links
-* [Corey Schafer -Django Tutorials](https://www.youtube.com/pl#aylist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+* [Corey Schafer - Django Tutorials](https://www.youtube.com/pl#aylist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 ## Information links
-* [Django documentation](https://docs.djangoproject.com/en/3.0/)
+* [Django Documentation](https://docs.djangoproject.com/en/3.0/)
